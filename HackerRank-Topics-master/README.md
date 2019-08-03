@@ -1,4 +1,4 @@
-# HackerRank-Topics
+# HackerRank Topics
 
 Topics (Tutorials) from HackerRank
 
